@@ -1,1 +1,1 @@
-# solvelexybot
+# bot
